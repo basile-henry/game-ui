@@ -1,0 +1,7 @@
+.cabal-sandbox/
+dist/
+*.prof
+cabal*
+*.sublime-project
+*.sublime-workspace
+.stack-work
